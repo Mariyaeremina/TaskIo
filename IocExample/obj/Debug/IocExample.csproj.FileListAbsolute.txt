@@ -1,8 +1,8 @@
-C:\Users\Мария\Desktop\Task.IoC\IocExample\bin\Debug\IocExample.exe.config
-C:\Users\Мария\Desktop\Task.IoC\IocExample\bin\Debug\IocExample.exe
-C:\Users\Мария\Desktop\Task.IoC\IocExample\bin\Debug\IocExample.pdb
-C:\Users\Мария\Desktop\Task.IoC\IocExample\bin\Debug\Ninject.dll
-C:\Users\Мария\Desktop\Task.IoC\IocExample\bin\Debug\Ninject.xml
-C:\Users\Мария\Desktop\Task.IoC\IocExample\obj\Debug\IocExample.csprojResolveAssemblyReference.cache
-C:\Users\Мария\Desktop\Task.IoC\IocExample\obj\Debug\IocExample.exe
-C:\Users\Мария\Desktop\Task.IoC\IocExample\obj\Debug\IocExample.pdb
+C:\Users\Мария\Downloads\Task.IoC\IocExample\bin\Debug\IocExample.exe.config
+C:\Users\Мария\Downloads\Task.IoC\IocExample\bin\Debug\IocExample.exe
+C:\Users\Мария\Downloads\Task.IoC\IocExample\bin\Debug\IocExample.pdb
+C:\Users\Мария\Downloads\Task.IoC\IocExample\bin\Debug\Ninject.dll
+C:\Users\Мария\Downloads\Task.IoC\IocExample\bin\Debug\Ninject.xml
+C:\Users\Мария\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.exe
+C:\Users\Мария\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.pdb

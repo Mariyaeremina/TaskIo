@@ -71,7 +71,7 @@ namespace IocExample.Classes
     }
 
     public interface ILogger
-    {
+    {   
         void Write(string message);
     }
 
